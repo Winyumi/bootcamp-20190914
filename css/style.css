@@ -34,5 +34,9 @@ a:hover {
 }
 .fl {
     float: left;
-    margin-right: 20px;
+    margin: 0 20px 20px 0;
+}
+.fr {
+    float: right;
+    margin: 0 0 20px 20px;
 }
